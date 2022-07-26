@@ -58,10 +58,10 @@
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
   <p align="center">
-    	<code><a href="https://www.facebook.com/bugs.slayer"><img width="30px" src="./img/social/facebook.png" title="Facebook"/></a></code>
+    	<code><a href="https://www.facebook.com/trantiendat.dev"><img width="30px" src="./img/social/facebook.png" title="Facebook"/></a></code>
       <code><a href="https://www.linkedin.com/in/tran-tien-dat"><img width="30px" src="./img/social/linkedin.png" title="Linkedin"/></a></code>
       <code><a href="https://twitter.com/bugslayer_dev"><img width="30px" src="./img/social/twitter.png" title="Twitter"/></a></code>
-      <code><a href="mailto:bugslayer.dev@gmail.com"><img width="30px" src="./img/social/gmail.png" title="bugslayer.dev@gmail.com"/></a></code>
+      <code><a href="mailto:im.trantiendat@gmail.com"><img width="30px" src="./img/social/gmail.png" title="im.trantiendat@gmail.com"/></a></code>
   </p>
 
   <!-- <p align="center">
